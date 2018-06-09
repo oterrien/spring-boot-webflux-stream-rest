@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ote.test</groupId>
-    <artifactId>reactive-service-test</artifactId>
+    <artifactId>spring-boot-webflux-stream-rest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
